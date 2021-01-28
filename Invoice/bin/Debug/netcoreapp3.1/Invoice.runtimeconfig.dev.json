@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fitria.ma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fitria.ma\\.nuget\\packages"
+    ]
+  }
+}
